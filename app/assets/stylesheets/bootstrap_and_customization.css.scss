@@ -1,0 +1,17 @@
+@import url(http://fonts.googleapis.comcss?family=Lato:400,700);
+
+$body-bg: #ecf0f1;
+$font-family-sans-serif: 'Lato', 'Helverica Neue', Helverica, Arial, sans-serif;
+$navbar-inverse-bg: #bdc3c7;
+$navbar-ivverse-link-color: #7f8c8d;
+$jumbotron-bg: black;
+
+@import 'bootstrap';
+
+.center{
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
